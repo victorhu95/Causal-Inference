@@ -21,7 +21,6 @@
     - [Potential Outcomes](#potential-outcomes)
 
 ## Week 2 Overview
-Details of what to expect in the second week of the course or project.
 
 ## Two Main Ways to Study Cause and Effect
 1. **The Classical Paradigm**
