@@ -1,8 +1,5 @@
 # Causal-Inference
 
-
-# Causal Inference: A Comprehensive Overview
-
 ## Table of Contents
 1. [Week 2 Overview](#week-2-overview)
 2. [Two Main Ways to Study Cause and Effect](#two-main-ways-to-study-cause-and-effect)
